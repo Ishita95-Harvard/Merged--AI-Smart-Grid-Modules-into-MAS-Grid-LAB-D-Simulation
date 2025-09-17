@@ -19,6 +19,6 @@
 ![APPEEC IEEE IMAGE](https://github.com/Ishita95-harvad/Merged--AI-Smart-Grid-Modules-into-MAS-Grid-LAB-D-Simulation/blob/main/IEEE%20APPEEC%20MTECH%20PAPERPUBLICATION%2C2025%20DEC.png)
 
 This paper proposes a multi-agent re-inforcement learning (MAS-RL) framework for optimizing power systems, targeting load balancing,power loss reduction, and forecasting accuracy. 
-Validated through simulations, the framework achieves up to 15% power loss reduction and 92% forecasting accuracy. Global case studies (India, Europe, US, Africa) demonstrate its adaptability, addressing scalability and cybersecurity challenges for smart grid applications.It is extended RESEARCH CASE STUDY EVIDENCE BASED RESEARCH PAPER PUBLISHED BY ME IN UGC RECOGNISED JOURNAL.
+Validated through simulations, the framework achieves up to 15% power loss reduction and 92% forecasting accuracy. Global case studies (India, Europe, US, Africa) demonstrate its adaptability, addressing scalability and cybersecurity challenges for smart grid applications.It is extended RESEARCH CASE STUDY EVIDENCE BASED RESEARCH PAPER PUBLISHED IN UGC RECOGNISED JOURNAL.
 
 -------
